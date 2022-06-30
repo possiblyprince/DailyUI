@@ -1,8 +1,10 @@
 body{
     background-color: black;
+    background-image: url(images/2.jpeg);
 }
 
 .signUp{
+    background-image: url("images/1.webp");
     border-radius: 15px;
     background-color: white;
     height: 50%;
