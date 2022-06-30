@@ -1,15 +1,21 @@
 body{
     background-color: black;
-    background-image: url(images/2.jpeg);
+    background-image: url(images/BG.png);
+    background-repeat: no-repeat;
 }
 
 .signUp{
-    background-image: url("images/1.webp");
+    background-image: url("images/1.jpeg");
     border-radius: 15px;
     background-color: white;
     height: 50%;
     width: 50%;
     margin: auto;
+}
+
+.headText{
+    padding: 10%; 
+    margin: 10px 0;
 }
 
 .inputForm{
