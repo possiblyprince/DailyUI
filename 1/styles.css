@@ -1,46 +1,46 @@
-body{
-    background-color: black;
-    background-image: url(images/BG.png);
-    background-repeat: no-repeat;
+body {
+  background-color: black;
+  background-image: url(images/BG.png);
+  background-repeat: no-repeat;
 }
 
-.signUp{
-    background-image: url("images/1.jpeg");
-    border-radius: 15px;
-    background-color: white;
-    height: 50%;
-    width: 50%;
-    margin: auto;
+.signUp {
+  background-image: url("images/1.jpeg");
+  border-radius: 15px;
+  background-color: white;
+  height: 50%;
+  width: 50%;
+  margin: auto;
 }
 
-.headText{
-    padding: 10%; 
-    margin: 10px 0;
+.headText {
+  padding: 10%;
+  margin: 10px 0;
 }
 
-.inputForm{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    align-items: center;
-    width: 100%;
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow:0 0 15px 4px rgba(0,0,0,.4);
-    border: 0;
+.inputForm {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.4);
+  border: 0;
 }
 
-.signUpForm{
-    margin: auto;
-    padding: 10%;
-    margin: 10px 0;   
+.signUpForm {
+  margin: auto;
+  padding: 10%;
+  margin: 10px 0;
 }
 
-.signUpButton{
-    padding: 1%;
-    color: white;
-    font-size: 20px;
-    background-color: black;
-    position: absolute;
-    border: none;
-    border-radius: 10px;
+.signUpButton {
+  padding: 1%;
+  color: white;
+  font-size: 20px;
+  background-color: black;
+  position: absolute;
+  border: none;
+  border-radius: 10px;
 }
